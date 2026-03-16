@@ -1,0 +1,52 @@
+
+body{
+    background-color: blanchedalmond;
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p.cidade_data{
+    text-align: right;
+    font-weight: bold;
+}
+
+
+p.ola{
+    text-font-style: italic ;
+    font-weight: bold;
+}
+
+
+p.p1{ 
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+p.p2{    
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+p.p3{
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+p.p4{
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+P.nome{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
